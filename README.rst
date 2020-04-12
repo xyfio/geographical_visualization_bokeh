@@ -19,5 +19,6 @@ Geographical visualization with bokeh
 
     bokeh serve --show geographical_bokeh.py
 
-`dataset: <https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide>`
-`world map - countries <https://www.naturalearthdata.com/downloads/110m-cultural-vectors/>`
+`dataset: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide`
+
+`world map - countries: https://www.naturalearthdata.com/downloads/110m-cultural-vectors/`
